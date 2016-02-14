@@ -17,7 +17,7 @@ after installation:
 check version:
 $ docker --version
 
-run hello world con"tainer:
+run hello world container:
 $ docker run hello-world
 
 run an Ubuntu container:
