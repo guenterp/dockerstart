@@ -1,0 +1,36 @@
+
+docker on Ubuntu
+
+installation:
+-------------
+
+for installation 
+either see
+https://docs.docker.com/engine/installation/linux/ubuntulinux/
+or
+https://docs.docker.com/linux/
+
+
+after installation:
+-------------------
+
+check version:
+$ docker --version
+
+run hello world con"tainer:
+$ docker run hello-world
+
+run an Ubuntu container:
+$ docker run -it ubuntu bash
+
+
+how to proceed:
+---------------
+go to https://docs.docker.com/linux/ and check
+- Understand images & containers
+- Find & run the whalesay image
+- Build your own image
+- Create a Docker Hub account and repository
+- Tag & push your image
+- Learning more
+
